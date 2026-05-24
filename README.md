@@ -1,4 +1,4 @@
-# 🎓 Universal Academic Forecaster (v0.6)
+# 🎓 Universal Academic Forecaster (v0.8)
 
 A cute, pastel 8-bit aesthetic degree forecaster and grade calculator built for UK university students. Easily calculate your final classification for your BSc, MSc, or track your PhD milestones. 
 
@@ -26,4 +26,4 @@ This is a fully self-contained Single Page Application (SPA). There are no depen
 
 ## ✍️ Credits
 Made by **shad**. 
-(Version 0.6)
+(Version 0.8)
